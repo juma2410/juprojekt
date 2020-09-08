@@ -1,1 +1,5 @@
-{}
+{
+  "block.test_remote_work.mcdonalds_sign_small": "Mcdonalds Sign Small",
+  "block.test_remote_work.mcdonalds_sign_medium": "Mcdonalds Sign Small",
+  "block.test_remote_work.mcdonalds_sign_large": "Mcdonalds Sign Small"
+}

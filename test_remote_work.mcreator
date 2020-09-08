@@ -1,10 +1,42 @@
 {
   "id_map": {},
-  "mod_elements": [],
+  "mod_elements": [
+    {
+      "name": "McdonaldsSignSmall",
+      "type": "block",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "mcdonalds_sign_small"
+    },
+    {
+      "name": "McdonaldsSignMedium",
+      "type": "block",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "mcdonalds_sign_medium"
+    },
+    {
+      "name": "McdonaldsSignLarge",
+      "type": "block",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "mcdonalds_sign_large"
+    }
+  ],
   "variable_elements": [],
   "sound_elements": [],
   "language_map": {
-    "en_us": {}
+    "en_us": {
+      "block.test_remote_work.mcdonalds_sign_small": "Mcdonalds Sign Small",
+      "block.test_remote_work.mcdonalds_sign_medium": "Mcdonalds Sign Small",
+      "block.test_remote_work.mcdonalds_sign_large": "Mcdonalds Sign Small"
+    }
   },
   "workspaceSettings": {
     "modid": "test_remote_work",

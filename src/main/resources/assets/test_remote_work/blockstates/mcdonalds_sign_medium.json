@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "test_remote_work:block/mcdonalds_sign_medium"
+    },
+    "facing=east": {
+      "model": "test_remote_work:block/mcdonalds_sign_medium",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "test_remote_work:block/mcdonalds_sign_medium",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "test_remote_work:block/mcdonalds_sign_medium",
+      "y": 270
+    }
+  }
+}
